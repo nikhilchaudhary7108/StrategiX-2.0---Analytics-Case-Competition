@@ -1,0 +1,10 @@
+Data/
+results/
+# Data files
+*.csv
+
+# Result plots
+*.png
+
+# PDFs (if you want to hide them too)
+*.pdf
