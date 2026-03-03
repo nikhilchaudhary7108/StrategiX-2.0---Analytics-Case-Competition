@@ -460,9 +460,9 @@ The final predictions file `404_Not_Found_Predictions.csv` will be generated wit
 
 | File | Description |
 |---|---|
-| [`404_Not_Found_Analysis.ipynb`](./404_Not_Found_Analysis.ipynb) | Complete modelling notebook with EDA, feature engineering, training, tuning, and stacking |
-| [`404_Not_Found_Predictions.csv`](./404_Not_Found_Predictions.csv) | Final submission — fatigue probability for all 2,000 test users |
-| [`404_Not_Found_Presentation.pdf`](./404_Not_Found_Presentation.pdf) | 6-slide business presentation covering insights, model, and strategy |
+| [`404_Not_Found_🚫_Analysis.ipynb`](./404_Not_Found_🚫_Analysis.ipynb) | Complete modelling notebook with EDA, feature engineering, training, tuning, and stacking |
+| [`404_Not_Found_🚫_Predictions.csv`](./404_Not_Found_🚫_Predictions.csv) | Final submission — fatigue probability for all 2,000 test users |
+| [`404_Not_Found_🚫_Presentation.pdf`](./404_Not_Found_🚫_Presentation.pdf) | 6-slide business presentation covering insights, model, and strategy |
 | [`visualisations/`](./visualisations/) | All EDA plots, feature importance charts, and SHAP analysis |
 
 ---
